@@ -1,2 +1,2 @@
-# trying_deployment
-UChicago Python for ML Engineering assignment: deploying code automatically
+# Say Hi API
+This repository exists to serve as an example for the CD part of CI/CD.
